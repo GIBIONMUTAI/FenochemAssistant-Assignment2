@@ -1,0 +1,20 @@
+{
+  "name": "fenochemassistant-assignment2",
+  "version": "1.0.0",
+  "description": "AI-powered chat assistant for Fenochem using:",
+  "homepage": "https://github.com/GIBIONMUTAI/FenochemAssistant-Assignment2#readme",
+  "bugs": {
+    "url": "https://github.com/GIBIONMUTAI/FenochemAssistant-Assignment2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GIBIONMUTAI/FenochemAssistant-Assignment2.git"
+  },
+  "license": "ISC",
+  "author": "gibionmutai",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

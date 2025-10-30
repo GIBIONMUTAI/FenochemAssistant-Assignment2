@@ -1,0 +1,22 @@
+```gitignore
+# Node.js
+/node_modules
+/build
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+# Pyright cache
+.pyright/
+# Logs
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# IDE / Editors
+.vscode/
+.idea/
